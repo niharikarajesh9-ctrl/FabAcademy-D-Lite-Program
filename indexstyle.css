@@ -3,7 +3,7 @@ body {
   color: #7CFC00;                 /* neon green */
   font-family: "Courier New", Courier, monospace;
   line-height: 1.6;
-  margin: 40px;
+  margin: 6px;
   text-shadow: 0 0 2px rgba(124, 252, 0, 0.25);
 }
 /* Dropdown container */
@@ -77,6 +77,14 @@ body {
   width: 300px;
   max-width: 100%;
   height: auto;
+}
+
+/* About section centering */
+.about {
+  text-align: center;
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 0 6px;
 }
 
 /* Make all text neon green */
